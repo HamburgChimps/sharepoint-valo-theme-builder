@@ -1,6 +1,6 @@
 {
   "name": "@hamburgchimps/sharepoint-valo-theme-builder",
-  "version": "1.0.0",
+  "version": "1.0.0-rc.1",
   "description": "Sharepoint Valo Intranet Theme Builder",
   "scripts": {
     "ts:build": "rm -rf dist/ && tsc",
