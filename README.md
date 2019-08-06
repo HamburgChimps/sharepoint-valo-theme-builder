@@ -4,7 +4,7 @@ Extracts the `navigationCss` and `officeTheme.themeJson` properties into their o
 
 ## Usage
 
-This module places a command called `vt` in `node_modules/bin/` called `vt`, short for valo theme.
+This module places a command in `node_modules/bin/` called `vt`, short for valo theme.
 
 `vt extract [path/to/theme.json]`j: Extract the `navigationCss`and `officeTheme.themeJson` properties into their own files.
 
