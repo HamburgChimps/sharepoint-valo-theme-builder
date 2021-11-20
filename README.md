@@ -1,5 +1,7 @@
 # Sharepoint Valo Theme Builder
 
+> Note: This project is deprecated and no longer maintained
+
 Extracts the `navigationCss` and `officeTheme.themeJson` properties into their own files for easier editing. After editing the files to your liking, you can use this tool to then inject the contents of those files into the valo theme json file to be uploaded to Lightsaber.
 
 ## Usage
